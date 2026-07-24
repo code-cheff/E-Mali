@@ -1,0 +1,10 @@
+# ---- Model training pipeline (Python side) ----
+# These are needed only to TRAIN the CNN and export the TensorFlow Lite model
+# that ships inside the Android app. The phone itself needs none of this.
+
+tensorflow==2.16.1          # CNN build / train / convert to .tflite (Keras bundled)
+numpy==1.26.4               # numerical arrays
+pillow==10.3.0              # PIL - image loading & resizing
+opencv-python==4.9.0.80     # OpenCV - optional image pre-processing
+matplotlib==3.8.4           # training curves / plots
+pandas==2.2.2               # tabular handling of metrics & class maps

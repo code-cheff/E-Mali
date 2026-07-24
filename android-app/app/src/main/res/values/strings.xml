@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E-Mali</string>
+    <string name="app_subtitle">AI leaf disease detection · works offline</string>
+    <string name="tap_to_select">No image selected</string>
+    <string name="tap_hint">Use the buttons below to scan a leaf</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyzing">Analyzing leaf…</string>
+    <string name="about_disease">About</string>
+    <string name="treatment">Recommended action</string>
+    <string name="top_predictions">Other possibilities</string>
+    <string name="share">Share</string>
+    <string name="scan_another">Scan another</string>
+    <string name="recent_scans">Recent scans</string>
+    <string name="low_confidence">Low confidence — try a clearer, well-lit photo of a single leaf on a plain background.</string>
+    <string name="preview_desc">Selected leaf image</string>
+</resources>

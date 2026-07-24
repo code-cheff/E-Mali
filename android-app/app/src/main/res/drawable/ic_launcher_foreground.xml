@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple leaf glyph centered in the adaptive-icon safe zone. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C40,38 34,52 36,70 C36,72 38,74 40,74 C58,76 72,70 78,52 C80,46 80,40 78,34 C70,38 62,40 54,42 C56,48 60,54 66,58 C58,56 52,50 49,42 C52,38 53,34 54,30 Z" />
+</vector>

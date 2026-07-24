@@ -1,0 +1,11 @@
+# Sample — copy these two lines into your real local.properties file
+# (android-app/local.properties), which Android Studio already created and
+# which is gitignored so your key is never committed.
+#
+# Get a key at https://openrouter.ai/keys
+# The default model below is FREE (":free" = no usage cost).
+# Browse other slugs at https://openrouter.ai/models (e.g. anthropic/claude-3.5-sonnet
+#   for higher quality paid output).
+
+OPENROUTER_API_KEY=sk-or-v1-your-key-here
+OPENROUTER_MODEL=nvidia/nemotron-3-ultra-550b-a55b:free
